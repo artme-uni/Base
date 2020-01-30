@@ -1,0 +1,3 @@
+/Users/twiggy/CLion/Base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/twiggy/CLion/Base/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/twiggy/CLion/Base/cmake-build-debug/CMakeFiles/Base.dir

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/twiggy/CLion/Base/add.c
+add.h
+/Users/twiggy/CLion/Base/add.h
+
+/Users/twiggy/CLion/Base/add.h
+stdio.h
+-
+
+/Users/twiggy/CLion/Base/coder.c
+coder.h
+/Users/twiggy/CLion/Base/coder.h
+
+/Users/twiggy/CLion/Base/coder.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+add.h
+/Users/twiggy/CLion/Base/add.h
+
+/Users/twiggy/CLion/Base/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+getopt.h
+-
+coder.h
+/Users/twiggy/CLion/Base/coder.h
+
